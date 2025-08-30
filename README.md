@@ -46,7 +46,7 @@ The goal is to help HR & management teams make data-driven decisions by understa
 ---
 
 ## 📈 Sample Dashboard Preview  
-_<img width="1423" height="795" alt="Hiring_Data_visula" src="https://github.com/user-attachments/assets/c5b6499d-1292-42bc-953c-27f03ec2b959" />_  
+_<img />_  
 
 ---
 
