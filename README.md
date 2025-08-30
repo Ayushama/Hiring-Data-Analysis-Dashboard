@@ -46,7 +46,7 @@ The goal is to help HR & management teams make data-driven decisions by understa
 ---
 
 ## 📈 Sample Dashboard Preview  
-_<img "D:\DA\sql\Employee Hiring Data\Hiring Visual.png"/>_  
+_<img width="1290" height="733" alt="Hiring Visual" src="https://github.com/user-attachments/assets/7ce35ae1-2b57-4fed-ab9e-97408eaaf5fb" />_  
 
 ---
 
