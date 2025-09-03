@@ -36,7 +36,7 @@ Here’s a quick look at the dashboard in action 👇
 - **Time-to-Fill** → Average days needed to close open roles.  
 - **Hiring Funnel** → Applications → Shortlisted → Interviews → Offers → Hires.  
 - **KPIs** → Quick snapshot of overall hiring performance.  
-- **Department View** → Which teams are hiring the most, and where challenges exist.  
+- **Department View** → Which teams are hiring the most, and where challenges exist.   
 
 ---
 
