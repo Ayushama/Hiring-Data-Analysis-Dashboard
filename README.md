@@ -23,7 +23,7 @@ Here’s a quick look at the dashboard in action 👇
 <img width="1290" height="733" alt="Hiring Visual" src="https://github.com/user-attachments/assets/e16f94f6-873b-4664-92d3-cf064c803923" />
 
 ---
-
+ 
 ## 📂 What’s Inside
 - **`Hiring Visual.pbix`** → The Power BI dashboard file.  
 - **`README.md`** → Project documentation (this file).  
